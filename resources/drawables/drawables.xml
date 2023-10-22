@@ -1,0 +1,12 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Logo208" filename="logo.png" scaleX="130" scaleY="130"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+    <bitmap id="Logo218" filename="logo.png" scaleX="136" scaleY="136"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+    <bitmap id="Logo240" filename="logo.png" scaleX="150" scaleY="150"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+    <bitmap id="Logo260" filename="logo.png" scaleX="162" scaleY="162"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+    <bitmap id="Logo280" filename="logo.png" scaleX="175" scaleY="175"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+    <bitmap id="Logo360" filename="logo.png" scaleX="225" scaleY="225"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+    <bitmap id="Logo390" filename="logo.png" scaleX="244" scaleY="244"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+    <bitmap id="Logo416" filename="logo.png" scaleX="260" scaleY="260"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+    <bitmap id="Logo454" filename="logo.png" scaleX="284" scaleY="284"><palette><color>FF0000</color><color>FFFFFF</color><color>000000</color></palette></bitmap>
+</drawables>

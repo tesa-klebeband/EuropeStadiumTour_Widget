@@ -1,0 +1,11 @@
+<fonts>
+    <font id="Font208" filename="font_208.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+    <font id="Font218" filename="font_218.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+    <font id="Font240" filename="font_240.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+    <font id="Font260" filename="font_260.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+    <font id="Font280" filename="font_280.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+    <font id="Font360" filename="font_360.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+    <font id="Font390" filename="font_390.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+    <font id="Font416" filename="font_416.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+    <font id="Font454" filename="font_454.fnt" antialias="true" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+</fonts>
