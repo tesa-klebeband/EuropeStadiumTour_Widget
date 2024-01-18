@@ -137,14 +137,14 @@ class EuropeStadiumTour_WidgetView extends WatchUi.View {
 
         dc.drawText(
             width / 2,
-            height - (height / 3),
+            height * 0.67,
             font,
             concertPlace,
             Graphics.TEXT_JUSTIFY_CENTER
         );
         dc.drawText(
             width / 2,
-            height - (height / 7),
+            height * 0.85,
             Graphics.FONT_SMALL,
             daysString,
             Graphics.TEXT_JUSTIFY_CENTER
@@ -155,8 +155,8 @@ class EuropeStadiumTour_WidgetView extends WatchUi.View {
     }
 
     function loadResources() as Void {
-        font = Toybox.WatchUi.loadResource(fontResources.get(width));
-        logo = Toybox.WatchUi.loadResource(logoResources.get(width));
+        font = Toybox.WatchUi.loadResource(fontResources.get(height));
+        logo = Toybox.WatchUi.loadResource(logoResources.get(height));
 
         var concert = Application.Properties.getValue("Concert") as Number;
         concertPlace = concertPlaces[concert];
